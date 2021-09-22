@@ -1,0 +1,31 @@
+﻿<Properties StartupConfiguration="{6589262E-88C8-4BA6-A282-31D04220AC77}|Default">
+  <MonoDevelop.Ide.ItemProperties.TestRest PreferredExecutionTarget="/Applications/Firefox.app" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="TestRest/Controllers/CommandsController.cs">
+    <Files>
+      <File FileName="TestRest/Program.cs" Line="1" Column="1" />
+      <File FileName="TestRest/Startup.cs" Line="62" Column="1" />
+      <File FileName="TestRest/Controllers/CommandsController.cs" Line="20" Column="52" />
+      <File FileName="TestRest/Controllers/HomeController.cs" Line="1" Column="1" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="TestRest" expanded="True">
+            <Node name="TestRest" expanded="True">
+              <Node name="Dependencies" expanded="True" />
+              <Node name="Controllers" expanded="True">
+                <Node name="CommandsController.cs" selected="True" />
+              </Node>
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>
